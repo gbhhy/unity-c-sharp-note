@@ -1,10 +1,12 @@
-//将字符数组转化为字符串
+//将char[]转化为string
 string str=new string(char[]);
 
-//将一个字符串以特定字符分割为若干个字符串数组
+//将string以特定char分割为若干个字符串数组(string[])
 string[] string.Split(char separator)
 for example:
 string str="fuck me";
 sepStr[]=str.Split(' ');
 
-
+//将string转化为stringbuilder
+StringBuilder newBuilder = new StringBuilder(128);
+newBuilder.Append(str);
