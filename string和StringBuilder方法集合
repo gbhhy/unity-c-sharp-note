@@ -1,0 +1,2 @@
+string[] string.Split(char separator)
+//将一个字符串以特定字符分割为若干个字符串数组
