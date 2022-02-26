@@ -1,0 +1,5 @@
+ctrl + r + m 提取新方法
+ctrl + k + f 自动对齐
+ctrl + k + c/（/） 注释选中代码
+ctrl + k + u 取消注释
+ctrl + z 撤回
