@@ -4,4 +4,5 @@ ctrl + k + c/（/） 注释选中代码
 ctrl + k + u 取消注释
 ctrl + z 撤回
 alt + 鼠标左键 选中方框代码
-# region 折叠代码块
+# region # endregion 折叠代码块
+home + shift + end 选中当前行
