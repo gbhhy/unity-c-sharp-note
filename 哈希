@@ -1,3 +1,8 @@
 Hashtable和Dictionary都是用来存储键值对的，他们之间的区别类似于ArrayList和List；
 Hashtable的键和值都用object类型，需要拆装箱，Dictionary需要指定泛型；
 可以用KeyValuePair泛型来取键值对；
+HashSet是一个包含不重复项的无序泛型列表，常用于取集合；
+IntersectWith取交集；
+UnionWith取并集；
+ExceptWith取差集；
+SymmetricExceptWith取对称差集；
