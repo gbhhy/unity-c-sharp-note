@@ -1,0 +1,9 @@
+Stack 入参是object
+Stack<>泛型也可
+peek方法拿栈顶元素
+foreach遍历是从顶到底
+
+Queue 入参是object
+Queue<>泛型也可
+Enqueue入队
+Dequeue离队
